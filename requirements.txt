@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+playwright
+sqlalchemy
+asyncpg
+pydantic
+python-dotenv
+beautifulsoup4
+pandas
+prophet
+pytest
+httpx
