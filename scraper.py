@@ -4,7 +4,8 @@ import google.generativeai as genai
 import json
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyBXVgxeol8dEtLsIlH_B_umVG7ha2oWJqA")
+genai.configure(api_key="YOUR_GEMINI_API_KEY")
+# Replace "YOUR_GEMINI_API_KEY" with your actual Gemini API key
 
 class PriceScraper:
     async def scrape_prices(self, product_name: str):
