@@ -43,7 +43,7 @@ To run the backend service locally, you must have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone [YOUR_REPO_URL]
+git clone https://github.com/ntbnaren7/ultimate-shopping-assisstant_extension.git
 cd ultimate-shopping-assistant
 ```
 
